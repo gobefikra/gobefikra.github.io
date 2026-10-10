@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://www.bookbefikar.com
+Sitemap: https://www.bookbefikar.com/sitemap.xml
